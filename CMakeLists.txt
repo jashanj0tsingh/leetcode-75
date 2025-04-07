@@ -3,5 +3,10 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(untitled main.cpp
-        problem/IProblem.h)
+include_directories(include)
+
+add_subdirectory(arrays)
+
+add_executable(main main.cpp)
+
+target_link_libraries(main PRIVATE arrays)
