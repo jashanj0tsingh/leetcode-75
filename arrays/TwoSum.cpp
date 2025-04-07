@@ -10,7 +10,7 @@
 class TwoSum : IProblem {
 public:
     void run() override {
-        // input
+        // input test case
         const std::vector<int> nums= {2,7,11,15};
         constexpr int target = 9;
 

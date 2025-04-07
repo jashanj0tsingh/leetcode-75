@@ -17,7 +17,7 @@ Yet another implementation of the famous LeetCode 75 in C++11
 - [ ] Jump Game
 
 ## ✅ Array
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
