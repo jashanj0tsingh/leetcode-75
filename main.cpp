@@ -1,5 +1,6 @@
-#include <iostream>
+#include "arrays/TwoSum.cpp"
 
 int main() {
-    return 0;
+    TwoSum twoSum;
+    twoSum.run();
 }
