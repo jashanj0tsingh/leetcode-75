@@ -1,5 +1,6 @@
 #include <iostream>
 #include <ostream>
+#include <unordered_map>
 #include <vector>
 
 #include <IProblem.h>
