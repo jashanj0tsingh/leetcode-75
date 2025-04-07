@@ -1,7 +1,3 @@
-//
-// Created by Jashanjot Singh on 2025-04-06.
-//
-
 #ifndef IPROBLEM_H
 #define IPROBLEM_H
 

@@ -2,10 +2,7 @@
 #include <ostream>
 #include <vector>
 
-#include "problem/IProblem.h"
-//
-// Created by Jashanjot Singh on 2025-04-06.
-//
+#include <IProblem.h>
 
 class TwoSum : IProblem {
 public:
